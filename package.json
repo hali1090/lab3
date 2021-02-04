@@ -1,0 +1,22 @@
+{
+  "name": "cm4025_nodeonheroku",
+  "version": "1.0.0",
+  "description": "node on heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hali1090/lab3.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "Hishaam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hali1090/lab3/issues"
+  },
+  "homepage": "https://github.com/hali1090/lab3#readme"
+}
